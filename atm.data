@@ -1,0 +1,14 @@
+[
+    {
+        "cardNumber": "1111222233334444",
+        "checking": 250,
+        "pin": "1234",
+        "savings": 1149
+    },
+    {
+        "cardNumber": "1211327238334444",
+        "checking": 0,
+        "pin": "1232",
+        "savings": 0
+    }
+]
